@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Aluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AtualizarCursos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AtualizarNotas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AtualizarSalas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CadastrarAluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CadastrarCursos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CadastrarNotas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CadastrarProfessor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CadastrarSalas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CadastroDiretor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CursoAluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Cursos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Diretor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ExcluirCurso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ExcluirNotas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ExcluirSalas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Matricula.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuAluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuDiretor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NotaAluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NotasProfessor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NotasSalas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Professor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SalaAluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SalaProfessor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Salas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

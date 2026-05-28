@@ -1,0 +1,666 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\rafael.balmeida3\\source\\repos\\escola-de-idiomas\\escola de idiomas\\matricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\matricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\escola de idiomas\\matricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\matricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\rafael.balmeida3\\source\\repos\\escola-de-idiomas\\escola de idiomas\\daoaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\daoaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\rafael.balmeida3\\source\\repos\\escola-de-idiomas\\escola de idiomas\\daocursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\daocursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\escola de idiomas\\cursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\cursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\rafael.balmeida3\\source\\repos\\escola-de-idiomas\\escola de idiomas\\notas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\notas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\escola de idiomas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\escola de idiomas\\loginfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\loginfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\escola de idiomas\\excluirprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\excluirprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\escola de idiomas\\excluirnotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\excluirnotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\escola de idiomas\\excluircursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\excluircursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\escola de idiomas\\excluiraluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\excluiraluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\rafael.balmeida3\\source\\repos\\escola-de-idiomas\\escola de idiomas\\daoprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\daoprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\rafael.balmeida3\\source\\repos\\escola-de-idiomas\\escola de idiomas\\daonotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\daonotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\rafael.balmeida3\\source\\repos\\escola-de-idiomas\\escola de idiomas\\daofuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\daofuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\escola de idiomas\\consultarmatricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\consultarmatricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\escola de idiomas\\cadastrarprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\cadastrarprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\escola de idiomas\\cadastrarfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\cadastrarfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\escola de idiomas\\cadastraraluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\cadastraraluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\escola de idiomas\\atualizarprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\atualizarprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\escola de idiomas\\atualizarnotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\atualizarnotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\escola de idiomas\\atualizaraluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\atualizaraluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\escola de idiomas\\adiconarnotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\adiconarnotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\escola de idiomas\\adicionarcursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\adicionarcursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\rafael.balmeida3\\source\\repos\\escola-de-idiomas\\escola de idiomas\\adicionarcursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\adicionarcursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\rafael.balmeida3\\source\\repos\\escola-de-idiomas\\escola de idiomas\\cursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\cursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\rafael.balmeida3\\source\\repos\\escola-de-idiomas\\escola de idiomas\\excluircursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\excluircursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\rafael.balmeida3\\source\\repos\\escola-de-idiomas\\escola de idiomas\\excluirnotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\excluirnotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\rafael.balmeida3\\source\\repos\\escola-de-idiomas\\escola de idiomas\\cadastraraluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\cadastraraluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\rafael.balmeida3\\source\\repos\\escola-de-idiomas\\escola de idiomas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\rafael.balmeida3\\source\\repos\\escola-de-idiomas\\escola de idiomas\\adiconarnotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\adiconarnotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\rafael.balmeida3\\source\\repos\\escola-de-idiomas\\escola de idiomas\\notas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\notas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\rafael.balmeida3\\source\\repos\\escola-de-idiomas\\escola de idiomas\\atualizarnotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\atualizarnotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\rafael.balmeida3\\source\\repos\\escola-de-idiomas\\escola de idiomas\\consultarmatricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\consultarmatricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\rafael.balmeida3\\source\\repos\\escola-de-idiomas\\escola de idiomas\\loginfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\loginfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\rafael.balmeida3\\source\\repos\\escola-de-idiomas\\escola de idiomas\\cadastrarfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\cadastrarfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\rafael.balmeida3\\source\\repos\\escola-de-idiomas\\escola de idiomas\\cadastrarprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\cadastrarprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\rafael.balmeida3\\source\\repos\\escola-de-idiomas\\escola de idiomas\\excluiraluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\excluiraluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\rafael.balmeida3\\source\\repos\\escola-de-idiomas\\escola de idiomas\\atualizaraluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\atualizaraluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\rafael.balmeida3\\source\\repos\\escola-de-idiomas\\escola de idiomas\\atualizarprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\atualizarprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\rafael.balmeida3\\source\\repos\\escola-de-idiomas\\escola de idiomas\\excluirprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\excluirprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Matricula.cs",
+              "DocumentMoniker": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\Matricula.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\Matricula.cs",
+              "ToolTip": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\Matricula.cs*",
+              "RelativeToolTip": "Escola de Idiomas\\Matricula.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T16:54:46.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Matricula.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\Matricula.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\Matricula.cs",
+              "ToolTip": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\Matricula.cs [Projeto]*",
+              "RelativeToolTip": "Escola de Idiomas\\Matricula.cs [Projeto]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T17:33:13.448Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Notas.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\Notas.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\Notas.cs",
+              "ToolTip": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\Notas.cs [Projeto]",
+              "RelativeToolTip": "Escola de Idiomas\\Notas.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T18:01:28.761Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cursos.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\Cursos.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\Cursos.cs",
+              "ToolTip": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\Cursos.cs [Projeto]",
+              "RelativeToolTip": "Escola de Idiomas\\Cursos.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T19:27:16.482Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DAOCursos.cs",
+              "DocumentMoniker": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\DAOCursos.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\DAOCursos.cs",
+              "ToolTip": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\DAOCursos.cs",
+              "RelativeToolTip": "Escola de Idiomas\\DAOCursos.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAmwHYAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T19:30:45.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DAOAluno.cs",
+              "DocumentMoniker": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\DAOAluno.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\DAOAluno.cs",
+              "ToolTip": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\DAOAluno.cs*",
+              "RelativeToolTip": "Escola de Idiomas\\DAOAluno.cs*",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAIwHcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T17:38:32.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\Form1.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\Form1.cs",
+              "ToolTip": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\Form1.cs [Projeto]",
+              "RelativeToolTip": "Escola de Idiomas\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T19:56:10.544Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginFuncionario.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\LoginFuncionario.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\LoginFuncionario.cs",
+              "ToolTip": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\LoginFuncionario.cs [Projeto]",
+              "RelativeToolTip": "Escola de Idiomas\\LoginFuncionario.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T17:19:39.886Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ExcluirProfessor.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\ExcluirProfessor.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\ExcluirProfessor.cs",
+              "ToolTip": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola de Idiomas\\Escola de Idiomas\\ExcluirProfessor.cs [Projeto]",
+              "RelativeToolTip": "..\\Escola de Idiomas\\Escola de Idiomas\\ExcluirProfessor.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T17:07:59.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ExcluirNotas.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\ExcluirNotas.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\ExcluirNotas.cs",
+              "ToolTip": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola de Idiomas\\Escola de Idiomas\\ExcluirNotas.cs [Projeto]",
+              "RelativeToolTip": "..\\Escola de Idiomas\\Escola de Idiomas\\ExcluirNotas.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T18:58:31.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ExcluirCursos.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\ExcluirCursos.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\ExcluirCursos.cs",
+              "ToolTip": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola de Idiomas\\Escola de Idiomas\\ExcluirCursos.cs [Projeto]",
+              "RelativeToolTip": "..\\Escola de Idiomas\\Escola de Idiomas\\ExcluirCursos.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T19:49:30.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ExcluirAluno.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\ExcluirAluno.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\ExcluirAluno.cs",
+              "ToolTip": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola de Idiomas\\Escola de Idiomas\\ExcluirAluno.cs [Projeto]",
+              "RelativeToolTip": "..\\Escola de Idiomas\\Escola de Idiomas\\ExcluirAluno.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T17:00:57.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DAOProfessor.cs",
+              "DocumentMoniker": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\DAOProfessor.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\DAOProfessor.cs",
+              "ToolTip": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\DAOProfessor.cs",
+              "RelativeToolTip": "Escola de Idiomas\\DAOProfessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T19:27:18.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DAONotas.cs",
+              "DocumentMoniker": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\DAONotas.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\DAONotas.cs",
+              "ToolTip": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\DAONotas.cs",
+              "RelativeToolTip": "Escola de Idiomas\\DAONotas.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAIwG4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T18:02:47.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DAOFuncionario.cs",
+              "DocumentMoniker": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\DAOFuncionario.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\DAOFuncionario.cs",
+              "ToolTip": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\DAOFuncionario.cs",
+              "RelativeToolTip": "Escola de Idiomas\\DAOFuncionario.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwEMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T16:39:17.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ConsultarMatricula.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\ConsultarMatricula.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\ConsultarMatricula.cs",
+              "ToolTip": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola de Idiomas\\Escola de Idiomas\\ConsultarMatricula.cs [Projeto]",
+              "RelativeToolTip": "..\\Escola de Idiomas\\Escola de Idiomas\\ConsultarMatricula.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T17:52:42.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CadastrarProfessor.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\CadastrarProfessor.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\CadastrarProfessor.cs",
+              "ToolTip": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola de Idiomas\\Escola de Idiomas\\CadastrarProfessor.cs [Projeto]",
+              "RelativeToolTip": "..\\Escola de Idiomas\\Escola de Idiomas\\CadastrarProfessor.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T19:12:06.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CadastrarFuncionario.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\CadastrarFuncionario.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\CadastrarFuncionario.cs",
+              "ToolTip": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola de Idiomas\\Escola de Idiomas\\CadastrarFuncionario.cs [Projeto]",
+              "RelativeToolTip": "..\\Escola de Idiomas\\Escola de Idiomas\\CadastrarFuncionario.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T16:50:24.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CadastrarAluno.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\CadastrarAluno.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\CadastrarAluno.cs",
+              "ToolTip": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola de Idiomas\\Escola de Idiomas\\CadastrarAluno.cs [Projeto]",
+              "RelativeToolTip": "..\\Escola de Idiomas\\Escola de Idiomas\\CadastrarAluno.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T18:46:57.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AtualizarProfessor.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\AtualizarProfessor.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\AtualizarProfessor.cs",
+              "ToolTip": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola de Idiomas\\Escola de Idiomas\\AtualizarProfessor.cs [Projeto]",
+              "RelativeToolTip": "..\\Escola de Idiomas\\Escola de Idiomas\\AtualizarProfessor.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T16:36:45.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AtualizarNotas.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\AtualizarNotas.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\AtualizarNotas.cs",
+              "ToolTip": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola de Idiomas\\Escola de Idiomas\\AtualizarNotas.cs [Projeto]",
+              "RelativeToolTip": "..\\Escola de Idiomas\\Escola de Idiomas\\AtualizarNotas.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T19:03:44.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AtualizarAluno.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\AtualizarAluno.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\AtualizarAluno.cs",
+              "ToolTip": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola de Idiomas\\Escola de Idiomas\\AtualizarAluno.cs [Projeto]",
+              "RelativeToolTip": "..\\Escola de Idiomas\\Escola de Idiomas\\AtualizarAluno.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T19:45:43.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AdiconarNotas.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\AdiconarNotas.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\AdiconarNotas.cs",
+              "ToolTip": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola de Idiomas\\Escola de Idiomas\\AdiconarNotas.cs [Projeto]",
+              "RelativeToolTip": "..\\Escola de Idiomas\\Escola de Idiomas\\AdiconarNotas.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T18:49:29.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AdicionarCursos.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\AdicionarCursos.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\AdicionarCursos.cs",
+              "ToolTip": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola de Idiomas\\Escola de Idiomas\\AdicionarCursos.cs [Projeto]",
+              "RelativeToolTip": "..\\Escola de Idiomas\\Escola de Idiomas\\AdicionarCursos.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T19:38:09.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AdicionarCursos.cs",
+              "DocumentMoniker": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\AdicionarCursos.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\AdicionarCursos.cs",
+              "ToolTip": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\AdicionarCursos.cs",
+              "RelativeToolTip": "Escola de Idiomas\\AdicionarCursos.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwDMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T19:41:45.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Cursos.cs",
+              "DocumentMoniker": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\Cursos.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\Cursos.cs",
+              "ToolTip": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\Cursos.cs",
+              "RelativeToolTip": "Escola de Idiomas\\Cursos.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAewC8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T19:29:54.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ExcluirCursos.cs",
+              "DocumentMoniker": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\ExcluirCursos.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\ExcluirCursos.cs",
+              "ToolTip": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\ExcluirCursos.cs",
+              "RelativeToolTip": "Escola de Idiomas\\ExcluirCursos.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAEwC4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T19:51:19.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ExcluirNotas.cs",
+              "DocumentMoniker": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\ExcluirNotas.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\ExcluirNotas.cs",
+              "ToolTip": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\ExcluirNotas.cs",
+              "RelativeToolTip": "Escola de Idiomas\\ExcluirNotas.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAEwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T19:00:40.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CadastrarAluno.cs",
+              "DocumentMoniker": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\CadastrarAluno.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\CadastrarAluno.cs",
+              "ToolTip": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\CadastrarAluno.cs",
+              "RelativeToolTip": "Escola de Idiomas\\CadastrarAluno.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAvwEAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T17:18:42.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\Form1.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\Form1.cs",
+              "ToolTip": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\Form1.cs",
+              "RelativeToolTip": "Escola de Idiomas\\Form1.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAEwFEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T18:36:20.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AdiconarNotas.cs",
+              "DocumentMoniker": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\AdiconarNotas.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\AdiconarNotas.cs",
+              "ToolTip": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\AdiconarNotas.cs",
+              "RelativeToolTip": "Escola de Idiomas\\AdiconarNotas.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwDMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T18:53:16.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Notas.cs",
+              "DocumentMoniker": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\Notas.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\Notas.cs",
+              "ToolTip": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\Notas.cs",
+              "RelativeToolTip": "Escola de Idiomas\\Notas.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowEwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T18:45:11.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AtualizarNotas.cs",
+              "DocumentMoniker": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\AtualizarNotas.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\AtualizarNotas.cs",
+              "ToolTip": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\AtualizarNotas.cs",
+              "RelativeToolTip": "Escola de Idiomas\\AtualizarNotas.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwEQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T19:08:14.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ConsultarMatricula.cs",
+              "DocumentMoniker": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\ConsultarMatricula.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\ConsultarMatricula.cs",
+              "ToolTip": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\ConsultarMatricula.cs",
+              "RelativeToolTip": "Escola de Idiomas\\ConsultarMatricula.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAmwEMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T17:54:34.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "LoginFuncionario.cs",
+              "DocumentMoniker": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\LoginFuncionario.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\LoginFuncionario.cs",
+              "ToolTip": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\LoginFuncionario.cs",
+              "RelativeToolTip": "Escola de Idiomas\\LoginFuncionario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T17:22:16.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CadastrarFuncionario.cs",
+              "DocumentMoniker": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\CadastrarFuncionario.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\CadastrarFuncionario.cs",
+              "ToolTip": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\CadastrarFuncionario.cs",
+              "RelativeToolTip": "Escola de Idiomas\\CadastrarFuncionario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T17:02:00.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CadastrarProfessor.cs",
+              "DocumentMoniker": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\CadastrarProfessor.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\CadastrarProfessor.cs",
+              "ToolTip": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\CadastrarProfessor.cs",
+              "RelativeToolTip": "Escola de Idiomas\\CadastrarProfessor.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwEIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T19:20:48.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ExcluirAluno.cs",
+              "DocumentMoniker": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\ExcluirAluno.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\ExcluirAluno.cs",
+              "ToolTip": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\ExcluirAluno.cs",
+              "RelativeToolTip": "Escola de Idiomas\\ExcluirAluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T17:03:52.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AtualizarAluno.cs",
+              "DocumentMoniker": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\AtualizarAluno.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\AtualizarAluno.cs",
+              "ToolTip": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\AtualizarAluno.cs",
+              "RelativeToolTip": "Escola de Idiomas\\AtualizarAluno.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAjwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T19:47:52.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AtualizarProfessor.cs",
+              "DocumentMoniker": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\AtualizarProfessor.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\AtualizarProfessor.cs",
+              "ToolTip": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\AtualizarProfessor.cs",
+              "RelativeToolTip": "Escola de Idiomas\\AtualizarProfessor.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T19:22:18.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ExcluirProfessor.cs",
+              "DocumentMoniker": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\ExcluirProfessor.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\ExcluirProfessor.cs",
+              "ToolTip": "C:\\Users\\rafael.balmeida3\\source\\repos\\Escola-de-Idiomas\\Escola de Idiomas\\ExcluirProfessor.cs",
+              "RelativeToolTip": "Escola de Idiomas\\ExcluirProfessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwCYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T17:10:03.47Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

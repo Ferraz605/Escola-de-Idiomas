@@ -1,0 +1,1077 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\jo\u00E3o\\desktop\\escola-de-idiomas-main\\escola de idiomas\\notassalas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\notassalas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\escola de idiomas\\notassalas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\notassalas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\escola de idiomas\\notasprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\notasprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\jo\u00E3o\\desktop\\escola-de-idiomas-main\\escola de idiomas\\salaprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\salaprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\escola de idiomas\\salaprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\salaprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\jo\u00E3o\\desktop\\escola-de-idiomas-main\\escola de idiomas\\daodiretor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\daodiretor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\escola de idiomas\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\escola de idiomas\\atualizarcursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\atualizarcursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\escola de idiomas\\atualizarnotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\atualizarnotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\escola de idiomas\\atualizarsalas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\atualizarsalas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\escola de idiomas\\cadastraraluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\cadastraraluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\escola de idiomas\\cadastrarcursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\cadastrarcursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\escola de idiomas\\cadastrarnotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\cadastrarnotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\escola de idiomas\\cadastrarprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\cadastrarprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\escola de idiomas\\cadastrarsalas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\cadastrarsalas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\escola de idiomas\\cadastrodiretor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\cadastrodiretor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\escola de idiomas\\cursoaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\cursoaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\jo\u00E3o\\desktop\\escola-de-idiomas-main\\escola de idiomas\\cursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\cursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\escola de idiomas\\cursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\cursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\escola de idiomas\\diretor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\diretor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\escola de idiomas\\excluirsalas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\excluirsalas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\escola de idiomas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\escola de idiomas\\matricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\matricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\escola de idiomas\\menualuno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\menualuno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\escola de idiomas\\menudiretor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\menudiretor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\jo\u00E3o\\desktop\\escola-de-idiomas-main\\escola de idiomas\\notaaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\notaaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\escola de idiomas\\notaaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\notaaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\jo\u00E3o\\desktop\\escola-de-idiomas-main\\escola de idiomas\\notasprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\notasprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\jo\u00E3o\\desktop\\escola-de-idiomas-main\\escola de idiomas\\salas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\salas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\escola de idiomas\\salas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\salas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\escola de idiomas\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\jo\u00E3o\\desktop\\escola-de-idiomas-main\\escola de idiomas\\diretor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\diretor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\escola de idiomas\\excluircurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\excluircurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\jo\u00E3o\\desktop\\escola-de-idiomas-main\\escola de idiomas\\daosalas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\daosalas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\jo\u00E3o\\desktop\\escola-de-idiomas-main\\escola de idiomas\\daocursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\daocursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\jo\u00E3o\\desktop\\escola-de-idiomas-main\\escola de idiomas\\daonotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\daonotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\jo\u00E3o\\desktop\\escola-de-idiomas-main\\escola de idiomas\\atualizarsalas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\atualizarsalas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\jo\u00E3o\\desktop\\escola-de-idiomas-main\\escola de idiomas\\atualizarnotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\atualizarnotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\jo\u00E3o\\desktop\\escola-de-idiomas-main\\escola de idiomas\\atualizarcursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\atualizarcursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\jo\u00E3o\\desktop\\escola-de-idiomas-main\\escola de idiomas\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\jo\u00E3o\\desktop\\escola-de-idiomas-main\\escola de idiomas\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\escola de idiomas\\excluirnotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\excluirnotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\escola de idiomas\\salaaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\salaaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\jo\u00E3o\\desktop\\escola-de-idiomas-main\\escola de idiomas\\salaaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\salaaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\jo\u00E3o\\desktop\\escola-de-idiomas-main\\escola de idiomas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\jo\u00E3o\\desktop\\escola-de-idiomas-main\\escola de idiomas\\menualuno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\menualuno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\jo\u00E3o\\desktop\\escola-de-idiomas-main\\escola de idiomas\\matricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\matricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\jo\u00E3o\\desktop\\escola-de-idiomas-main\\escola de idiomas\\excluirsalas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\excluirsalas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\jo\u00E3o\\desktop\\escola-de-idiomas-main\\escola de idiomas\\excluirnotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\excluirnotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\jo\u00E3o\\desktop\\escola-de-idiomas-main\\escola de idiomas\\excluircurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\excluircurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\jo\u00E3o\\desktop\\escola-de-idiomas-main\\escola de idiomas\\daoaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\daoaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\jo\u00E3o\\desktop\\escola-de-idiomas-main\\escola de idiomas\\cursoaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\cursoaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\jo\u00E3o\\desktop\\escola-de-idiomas-main\\escola de idiomas\\cadastrodiretor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\cadastrodiretor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\jo\u00E3o\\desktop\\escola-de-idiomas-main\\escola de idiomas\\cadastrarsalas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\cadastrarsalas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\jo\u00E3o\\desktop\\escola-de-idiomas-main\\escola de idiomas\\cadastrarprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\cadastrarprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\jo\u00E3o\\desktop\\escola-de-idiomas-main\\escola de idiomas\\cadastrarnotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\cadastrarnotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\jo\u00E3o\\desktop\\escola-de-idiomas-main\\escola de idiomas\\cadastrarcursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\cadastrarcursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\jo\u00E3o\\desktop\\escola-de-idiomas-main\\escola de idiomas\\cadastraraluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\cadastraraluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\jo\u00E3o\\desktop\\escola-de-idiomas-main\\escola de idiomas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\jo\u00E3o\\desktop\\escola-de-idiomas-main\\escola de idiomas\\daomatricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\daomatricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\jo\u00E3o\\desktop\\escola-de-idiomas-main\\escola de idiomas\\daoprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\daoprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\jo\u00E3o\\desktop\\escola-de-idiomas-main\\escola de idiomas\\menudiretor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\menudiretor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\jo\u00E3o\\desktop\\escola-de-idiomas-main\\escola de idiomas\\excluirnotas.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\excluirnotas.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\jo\u00E3o\\desktop\\escola-de-idiomas-main\\escola de idiomas\\excluirnotas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\excluirnotas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|c:\\users\\jo\u00E3o\\desktop\\escola-de-idiomas-main\\escola de idiomas\\diretor.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{9C7B564C-881A-4AC4-9EB0-43C7CBCB5BFD}|Escola de Idiomas\\Escola de Idiomas.csproj|solutionrelative:escola de idiomas\\diretor.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 40,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CadastrarAluno.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\CadastrarAluno.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\CadastrarAluno.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\CadastrarAluno.cs [Projeto]",
+              "RelativeToolTip": "Escola de Idiomas\\CadastrarAluno.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T23:16:55.16Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AtualizarSalas.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\AtualizarSalas.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\AtualizarSalas.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\AtualizarSalas.cs [Projeto]",
+              "RelativeToolTip": "Escola de Idiomas\\AtualizarSalas.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T23:35:00.258Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AtualizarNotas.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\AtualizarNotas.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\AtualizarNotas.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\AtualizarNotas.cs [Projeto]",
+              "RelativeToolTip": "Escola de Idiomas\\AtualizarNotas.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T17:41:59.808Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AtualizarCursos.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\AtualizarCursos.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\AtualizarCursos.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\AtualizarCursos.cs [Projeto]",
+              "RelativeToolTip": "Escola de Idiomas\\AtualizarCursos.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T23:06:43.294Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Aluno.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\Aluno.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\Aluno.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\Aluno.cs [Projeto]",
+              "RelativeToolTip": "Escola de Idiomas\\Aluno.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T23:07:02.258Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CadastrarCursos.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\CadastrarCursos.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\CadastrarCursos.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\CadastrarCursos.cs [Projeto]",
+              "RelativeToolTip": "Escola de Idiomas\\CadastrarCursos.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T22:32:51.409Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CadastrarNotas.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\CadastrarNotas.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\CadastrarNotas.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\CadastrarNotas.cs [Projeto]",
+              "RelativeToolTip": "Escola de Idiomas\\CadastrarNotas.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T22:28:28.286Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CadastrarProfessor.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\CadastrarProfessor.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\CadastrarProfessor.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\CadastrarProfessor.cs [Projeto]",
+              "RelativeToolTip": "Escola de Idiomas\\CadastrarProfessor.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T13:35:12.147Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CadastrarSalas.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\CadastrarSalas.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\CadastrarSalas.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\CadastrarSalas.cs [Projeto]",
+              "RelativeToolTip": "Escola de Idiomas\\CadastrarSalas.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T23:00:41.86Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CadastroDiretor.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\CadastroDiretor.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\CadastroDiretor.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\CadastroDiretor.cs [Projeto]",
+              "RelativeToolTip": "Escola de Idiomas\\CadastroDiretor.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T23:13:15.447Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CursoAluno.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\CursoAluno.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\CursoAluno.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\CursoAluno.cs [Projeto]",
+              "RelativeToolTip": "Escola de Idiomas\\CursoAluno.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T13:23:13.772Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Cursos.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\Cursos.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\Cursos.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\Cursos.cs [Projeto]",
+              "RelativeToolTip": "Escola de Idiomas\\Cursos.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T22:25:23.185Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "DAOAluno.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\DAOAluno.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\DAOAluno.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\DAOAluno.cs",
+              "RelativeToolTip": "Escola de Idiomas\\DAOAluno.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAAACsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T12:19:18.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DAOCursos.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\DAOCursos.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\DAOCursos.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\DAOCursos.cs",
+              "RelativeToolTip": "Escola de Idiomas\\DAOCursos.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T12:19:18.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DAODiretor.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\DAODiretor.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\DAODiretor.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\DAODiretor.cs",
+              "RelativeToolTip": "Escola de Idiomas\\DAODiretor.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAqwJEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T00:08:07.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "DAOMatricula.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\DAOMatricula.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\DAOMatricula.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\DAOMatricula.cs",
+              "RelativeToolTip": "Escola de Idiomas\\DAOMatricula.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADIAAACTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T23:36:36.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DAONotas.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\DAONotas.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\DAONotas.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\DAONotas.cs",
+              "RelativeToolTip": "Escola de Idiomas\\DAONotas.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAwwKMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T12:19:18.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "DAOProfessor.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\DAOProfessor.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\DAOProfessor.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\DAOProfessor.cs",
+              "RelativeToolTip": "Escola de Idiomas\\DAOProfessor.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAAF8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T12:19:18.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DAOSalas.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\DAOSalas.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\DAOSalas.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\DAOSalas.cs",
+              "RelativeToolTip": "Escola de Idiomas\\DAOSalas.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAUwHoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T23:57:24.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Diretor.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\Diretor.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\Diretor.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\Diretor.cs [Projeto]",
+              "RelativeToolTip": "Escola de Idiomas\\Diretor.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T14:05:47.182Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ExcluirCurso.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\ExcluirCurso.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\ExcluirCurso.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\ExcluirCurso.cs [Projeto]",
+              "RelativeToolTip": "Escola de Idiomas\\ExcluirCurso.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T23:20:43.562Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ExcluirNotas.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\ExcluirNotas.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\ExcluirNotas.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\ExcluirNotas.cs [Projeto]",
+              "RelativeToolTip": "Escola de Idiomas\\ExcluirNotas.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T17:27:02.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ExcluirSalas.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\ExcluirSalas.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\ExcluirSalas.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\ExcluirSalas.cs [Projeto]",
+              "RelativeToolTip": "Escola de Idiomas\\ExcluirSalas.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T23:56:46.457Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\Form1.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\Form1.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\Form1.cs [Projeto]",
+              "RelativeToolTip": "Escola de Idiomas\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T12:19:17.999Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Matricula.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\Matricula.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\Matricula.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\Matricula.cs [Projeto]",
+              "RelativeToolTip": "Escola de Idiomas\\Matricula.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T13:45:10.144Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MenuAluno.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\MenuAluno.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\MenuAluno.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\MenuAluno.cs [Projeto]",
+              "RelativeToolTip": "Escola de Idiomas\\MenuAluno.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T22:55:29.574Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MenuDiretor.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\MenuDiretor.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\MenuDiretor.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\MenuDiretor.cs [Projeto]",
+              "RelativeToolTip": "Escola de Idiomas\\MenuDiretor.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T22:27:42.124Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "NotaAluno.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\NotaAluno.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\NotaAluno.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\NotaAluno.cs [Projeto]",
+              "RelativeToolTip": "Escola de Idiomas\\NotaAluno.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T14:19:35.787Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotasProfessor.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\NotasProfessor.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\NotasProfessor.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\NotasProfessor.cs [Projeto]",
+              "RelativeToolTip": "Escola de Idiomas\\NotasProfessor.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T22:14:13.45Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotasSalas.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\NotasSalas.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\NotasSalas.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\NotasSalas.cs [Projeto]",
+              "RelativeToolTip": "Escola de Idiomas\\NotasSalas.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T18:23:36.602Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Professor.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\Professor.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\Professor.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\Professor.cs [Projeto]",
+              "RelativeToolTip": "Escola de Idiomas\\Professor.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T13:28:12.303Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\Program.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\Program.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\Program.cs",
+              "RelativeToolTip": "Escola de Idiomas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T14:09:27.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "SalaAluno.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\SalaAluno.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\SalaAluno.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\SalaAluno.cs [Projeto]",
+              "RelativeToolTip": "Escola de Idiomas\\SalaAluno.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T23:10:55.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SalaProfessor.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\SalaProfessor.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\SalaProfessor.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\SalaProfessor.cs [Projeto]",
+              "RelativeToolTip": "Escola de Idiomas\\SalaProfessor.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T18:39:57.873Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Salas.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\Salas.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\Salas.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\Salas.cs",
+              "RelativeToolTip": "Escola de Idiomas\\Salas.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAlwC8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T22:52:06.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SalaProfessor.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\SalaProfessor.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\SalaProfessor.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\SalaProfessor.cs",
+              "RelativeToolTip": "Escola de Idiomas\\SalaProfessor.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADgvxwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T18:52:44.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Salas.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\Salas.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\Salas.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\Salas.cs [Projeto]",
+              "RelativeToolTip": "Escola de Idiomas\\Salas.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T22:38:55.978Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "SalaAluno.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\SalaAluno.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\SalaAluno.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\SalaAluno.cs",
+              "RelativeToolTip": "Escola de Idiomas\\SalaAluno.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAnwDYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T23:19:55.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Professor.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\Professor.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\Professor.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\Professor.cs",
+              "RelativeToolTip": "Escola de Idiomas\\Professor.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAawFIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T13:33:20.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NotasSalas.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\NotasSalas.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\NotasSalas.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\NotasSalas.cs",
+              "RelativeToolTip": "Escola de Idiomas\\NotasSalas.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAnwD0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T18:36:14.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "NotasProfessor.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\NotasProfessor.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\NotasProfessor.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\NotasProfessor.cs",
+              "RelativeToolTip": "Escola de Idiomas\\NotasProfessor.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAArwDcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T22:19:42.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "NotaAluno.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\NotaAluno.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\NotaAluno.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\NotaAluno.cs",
+              "RelativeToolTip": "Escola de Idiomas\\NotaAluno.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAIA6wF0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T23:46:01.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "MenuDiretor.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\MenuDiretor.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\MenuDiretor.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\MenuDiretor.cs",
+              "RelativeToolTip": "Escola de Idiomas\\MenuDiretor.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAACwAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T22:30:40.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "MenuAluno.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\MenuAluno.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\MenuAluno.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\MenuAluno.cs",
+              "RelativeToolTip": "Escola de Idiomas\\MenuAluno.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAnwFAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T23:07:27.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Matricula.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\Matricula.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\Matricula.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\Matricula.cs",
+              "RelativeToolTip": "Escola de Idiomas\\Matricula.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAnwDYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T13:52:36.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ExcluirSalas.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\ExcluirSalas.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\ExcluirSalas.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\ExcluirSalas.cs",
+              "RelativeToolTip": "Escola de Idiomas\\ExcluirSalas.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAnwFIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T00:10:04.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ExcluirNotas.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\ExcluirNotas.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\ExcluirNotas.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\ExcluirNotas.cs",
+              "RelativeToolTip": "Escola de Idiomas\\ExcluirNotas.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAnwDcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T17:33:04.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ExcluirCurso.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\ExcluirCurso.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\ExcluirCurso.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\ExcluirCurso.cs",
+              "RelativeToolTip": "Escola de Idiomas\\ExcluirCurso.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAnwDkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T23:25:49.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Diretor.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\Diretor.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\Diretor.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\Diretor.cs",
+              "RelativeToolTip": "Escola de Idiomas\\Diretor.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAewA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T14:39:23.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "CadastrarProfessor.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\CadastrarProfessor.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\CadastrarProfessor.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\CadastrarProfessor.cs",
+              "RelativeToolTip": "Escola de Idiomas\\CadastrarProfessor.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAnwGoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T13:52:57.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Cursos.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\Cursos.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\Cursos.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\Cursos.cs",
+              "RelativeToolTip": "Escola de Idiomas\\Cursos.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAtwJ8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T22:48:15.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "CursoAluno.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\CursoAluno.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\CursoAluno.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\CursoAluno.cs",
+              "RelativeToolTip": "Escola de Idiomas\\CursoAluno.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAnwFQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T13:35:03.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CadastroDiretor.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\CadastroDiretor.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\CadastroDiretor.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\CadastroDiretor.cs",
+              "RelativeToolTip": "Escola de Idiomas\\CadastroDiretor.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAnwDkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T23:26:20.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "CadastrarSalas.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\CadastrarSalas.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\CadastrarSalas.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\CadastrarSalas.cs",
+              "RelativeToolTip": "Escola de Idiomas\\CadastrarSalas.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAewEAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T23:13:22.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AtualizarNotas.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\AtualizarNotas.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\AtualizarNotas.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\AtualizarNotas.cs",
+              "RelativeToolTip": "Escola de Idiomas\\AtualizarNotas.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAIA8wF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T17:53:14.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "CadastrarNotas.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\CadastrarNotas.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\CadastrarNotas.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\CadastrarNotas.cs",
+              "RelativeToolTip": "Escola de Idiomas\\CadastrarNotas.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAnwDcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T22:53:24.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "CadastrarCursos.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\CadastrarCursos.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\CadastrarCursos.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\CadastrarCursos.cs",
+              "RelativeToolTip": "Escola de Idiomas\\CadastrarCursos.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAnwFEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T22:46:04.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "CadastrarAluno.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\CadastrarAluno.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\CadastrarAluno.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\CadastrarAluno.cs",
+              "RelativeToolTip": "Escola de Idiomas\\CadastrarAluno.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAcwHoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T23:32:01.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AtualizarSalas.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\AtualizarSalas.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\AtualizarSalas.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\AtualizarSalas.cs",
+              "RelativeToolTip": "Escola de Idiomas\\AtualizarSalas.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAgwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T23:41:26.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AtualizarCursos.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\AtualizarCursos.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\AtualizarCursos.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\AtualizarCursos.cs",
+              "RelativeToolTip": "Escola de Idiomas\\AtualizarCursos.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAE8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T23:12:05.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\Form1.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\Form1.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\Form1.cs",
+              "RelativeToolTip": "Escola de Idiomas\\Form1.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowEwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T12:19:18.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\Aluno.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\Aluno.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\Aluno.cs",
+              "RelativeToolTip": "Escola de Idiomas\\Aluno.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAcwEIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T23:14:44.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ExcluirNotas.resx",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\ExcluirNotas.resx",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\ExcluirNotas.resx",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\ExcluirNotas.resx",
+              "RelativeToolTip": "Escola de Idiomas\\ExcluirNotas.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-05-24T18:10:02.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ExcluirNotas.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\ExcluirNotas.Designer.cs",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\ExcluirNotas.Designer.cs",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\ExcluirNotas.Designer.cs",
+              "RelativeToolTip": "Escola de Idiomas\\ExcluirNotas.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T18:09:59.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Diretor.resx",
+              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\Diretor.resx",
+              "RelativeDocumentMoniker": "Escola de Idiomas\\Diretor.resx",
+              "ToolTip": "C:\\Users\\Jo\u00E3o\\Desktop\\Escola-de-Idiomas-main\\Escola de Idiomas\\Diretor.resx",
+              "RelativeToolTip": "Escola de Idiomas\\Diretor.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-05-20T14:44:19.477Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

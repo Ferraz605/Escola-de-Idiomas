@@ -1,0 +1,220 @@
+C:\Users\rafael.balmeida3\source\repos\Escola de Idiomas\Escola de Idiomas\bin\Debug\net8.0-windows\Escola de Idiomas.exe
+C:\Users\rafael.balmeida3\source\repos\Escola de Idiomas\Escola de Idiomas\bin\Debug\net8.0-windows\Escola de Idiomas.deps.json
+C:\Users\rafael.balmeida3\source\repos\Escola de Idiomas\Escola de Idiomas\bin\Debug\net8.0-windows\Escola de Idiomas.runtimeconfig.json
+C:\Users\rafael.balmeida3\source\repos\Escola de Idiomas\Escola de Idiomas\bin\Debug\net8.0-windows\Escola de Idiomas.dll
+C:\Users\rafael.balmeida3\source\repos\Escola de Idiomas\Escola de Idiomas\bin\Debug\net8.0-windows\Escola de Idiomas.pdb
+C:\Users\rafael.balmeida3\source\repos\Escola de Idiomas\Escola de Idiomas\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\rafael.balmeida3\source\repos\Escola de Idiomas\Escola de Idiomas\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\rafael.balmeida3\source\repos\Escola de Idiomas\Escola de Idiomas\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\rafael.balmeida3\source\repos\Escola de Idiomas\Escola de Idiomas\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\rafael.balmeida3\source\repos\Escola de Idiomas\Escola de Idiomas\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\rafael.balmeida3\source\repos\Escola de Idiomas\Escola de Idiomas\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\rafael.balmeida3\source\repos\Escola de Idiomas\Escola de Idiomas\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\rafael.balmeida3\source\repos\Escola de Idiomas\Escola de Idiomas\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\rafael.balmeida3\source\repos\Escola de Idiomas\Escola de Idiomas\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\rafael.balmeida3\source\repos\Escola de Idiomas\Escola de Idiomas\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\rafael.balmeida3\source\repos\Escola de Idiomas\Escola de Idiomas\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\rafael.balmeida3\source\repos\Escola de Idiomas\Escola de Idiomas\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\rafael.balmeida3\source\repos\Escola de Idiomas\Escola de Idiomas\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\rafael.balmeida3\source\repos\Escola de Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola de Idiomas.csproj.AssemblyReference.cache
+C:\Users\rafael.balmeida3\source\repos\Escola de Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.Form1.resources
+C:\Users\rafael.balmeida3\source\repos\Escola de Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.Properties.Resources.resources
+C:\Users\rafael.balmeida3\source\repos\Escola de Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola de Idiomas.csproj.GenerateResource.cache
+C:\Users\rafael.balmeida3\source\repos\Escola de Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola de Idiomas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.balmeida3\source\repos\Escola de Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola de Idiomas.AssemblyInfoInputs.cache
+C:\Users\rafael.balmeida3\source\repos\Escola de Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola de Idiomas.AssemblyInfo.cs
+C:\Users\rafael.balmeida3\source\repos\Escola de Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola de Idiomas.csproj.CoreCompileInputs.cache
+C:\Users\rafael.balmeida3\source\repos\Escola de Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola de Idiomas.sourcelink.json
+C:\Users\rafael.balmeida3\source\repos\Escola de Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola d.2B41D5BB.Up2Date
+C:\Users\rafael.balmeida3\source\repos\Escola de Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola de Idiomas.dll
+C:\Users\rafael.balmeida3\source\repos\Escola de Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\refint\Escola de Idiomas.dll
+C:\Users\rafael.balmeida3\source\repos\Escola de Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola de Idiomas.pdb
+C:\Users\rafael.balmeida3\source\repos\Escola de Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola de Idiomas.genruntimeconfig.cache
+C:\Users\rafael.balmeida3\source\repos\Escola de Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\ref\Escola de Idiomas.dll
+C:\Users\rafael.balmeida3\source\repos\Escola de Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.Cadastrar_Aluno.resources
+C:\Users\rafael.balmeida3\source\repos\Escola de Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.CadastrarProfessor.resources
+C:\Users\rafael.balmeida3\source\repos\Escola de Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.AtualizarAluno.resources
+C:\Users\rafael.balmeida3\source\repos\Escola de Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.AtualizarProfessor.resources
+C:\Users\rafael.balmeida3\source\repos\Escola de Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.ExcluirAluno.resources
+C:\Users\rafael.balmeida3\source\repos\Escola de Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.ExcluirProfessor.resources
+C:\Users\rafael.balmeida3\source\repos\Escola de Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.CadastrarFuncionario.resources
+C:\Users\rafael.balmeida3\source\repos\Escola de Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.LoginFuncionario.resources
+C:\Users\rafael.balmeida3\source\repos\Escola de Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.Matricula.resources
+C:\Users\rafael.balmeida3\source\repos\Escola de Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.ConsultarMatricula.resources
+C:\Users\rafael.balmeida3\source\repos\Escola de Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.AdiconarNotas.resources
+C:\Users\rafael.balmeida3\source\repos\Escola de Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.AtualizarNotas.resources
+C:\Users\rafael.balmeida3\source\repos\Escola de Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.ExcluirNotas.resources
+C:\Users\rafael.balmeida3\source\repos\Escola de Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.Notas.resources
+C:\Users\rafael.balmeida3\source\repos\Escola de Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.AdicionarCursos.resources
+C:\Users\rafael.balmeida3\source\repos\Escola de Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.Cursos.resources
+C:\Users\rafael.balmeida3\source\repos\Escola de Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.ExcluirCursos.resources
+C:\Users\rafae\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola de Idiomas.csproj.AssemblyReference.cache
+C:\Users\rafae\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.Form1.resources
+C:\Users\rafae\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.Properties.Resources.resources
+C:\Users\rafae\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola de Idiomas.csproj.GenerateResource.cache
+C:\Users\rafae\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola de Idiomas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola de Idiomas.AssemblyInfoInputs.cache
+C:\Users\rafae\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola de Idiomas.AssemblyInfo.cs
+C:\Users\rafae\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola de Idiomas.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola de Idiomas.sourcelink.json
+C:\Users\rafae\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola de Idiomas.dll
+C:\Users\rafae\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\refint\Escola de Idiomas.dll
+C:\Users\rafae\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola de Idiomas.pdb
+C:\Users\rafae\source\repos\Escola-de-Idiomas\Escola de Idiomas\bin\Debug\net8.0-windows\Escola de Idiomas.exe
+C:\Users\rafae\source\repos\Escola-de-Idiomas\Escola de Idiomas\bin\Debug\net8.0-windows\Escola de Idiomas.deps.json
+C:\Users\rafae\source\repos\Escola-de-Idiomas\Escola de Idiomas\bin\Debug\net8.0-windows\Escola de Idiomas.runtimeconfig.json
+C:\Users\rafae\source\repos\Escola-de-Idiomas\Escola de Idiomas\bin\Debug\net8.0-windows\Escola de Idiomas.dll
+C:\Users\rafae\source\repos\Escola-de-Idiomas\Escola de Idiomas\bin\Debug\net8.0-windows\Escola de Idiomas.pdb
+C:\Users\rafae\source\repos\Escola-de-Idiomas\Escola de Idiomas\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\rafae\source\repos\Escola-de-Idiomas\Escola de Idiomas\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\rafae\source\repos\Escola-de-Idiomas\Escola de Idiomas\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\rafae\source\repos\Escola-de-Idiomas\Escola de Idiomas\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\rafae\source\repos\Escola-de-Idiomas\Escola de Idiomas\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\rafae\source\repos\Escola-de-Idiomas\Escola de Idiomas\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\rafae\source\repos\Escola-de-Idiomas\Escola de Idiomas\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\rafae\source\repos\Escola-de-Idiomas\Escola de Idiomas\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\rafae\source\repos\Escola-de-Idiomas\Escola de Idiomas\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\rafae\source\repos\Escola-de-Idiomas\Escola de Idiomas\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\rafae\source\repos\Escola-de-Idiomas\Escola de Idiomas\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\rafae\source\repos\Escola-de-Idiomas\Escola de Idiomas\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\rafae\source\repos\Escola-de-Idiomas\Escola de Idiomas\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\rafae\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola d.2B41D5BB.Up2Date
+C:\Users\rafae\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola de Idiomas.genruntimeconfig.cache
+C:\Users\rafae\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\ref\Escola de Idiomas.dll
+C:\Users\rafael.balmeida3\source\repos\Escola-de-Idiomas\Escola de Idiomas\bin\Debug\net8.0-windows\Escola de Idiomas.exe
+C:\Users\rafael.balmeida3\source\repos\Escola-de-Idiomas\Escola de Idiomas\bin\Debug\net8.0-windows\Escola de Idiomas.deps.json
+C:\Users\rafael.balmeida3\source\repos\Escola-de-Idiomas\Escola de Idiomas\bin\Debug\net8.0-windows\Escola de Idiomas.runtimeconfig.json
+C:\Users\rafael.balmeida3\source\repos\Escola-de-Idiomas\Escola de Idiomas\bin\Debug\net8.0-windows\Escola de Idiomas.dll
+C:\Users\rafael.balmeida3\source\repos\Escola-de-Idiomas\Escola de Idiomas\bin\Debug\net8.0-windows\Escola de Idiomas.pdb
+C:\Users\rafael.balmeida3\source\repos\Escola-de-Idiomas\Escola de Idiomas\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\rafael.balmeida3\source\repos\Escola-de-Idiomas\Escola de Idiomas\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\rafael.balmeida3\source\repos\Escola-de-Idiomas\Escola de Idiomas\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\rafael.balmeida3\source\repos\Escola-de-Idiomas\Escola de Idiomas\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\rafael.balmeida3\source\repos\Escola-de-Idiomas\Escola de Idiomas\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\rafael.balmeida3\source\repos\Escola-de-Idiomas\Escola de Idiomas\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\rafael.balmeida3\source\repos\Escola-de-Idiomas\Escola de Idiomas\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\rafael.balmeida3\source\repos\Escola-de-Idiomas\Escola de Idiomas\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\rafael.balmeida3\source\repos\Escola-de-Idiomas\Escola de Idiomas\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\rafael.balmeida3\source\repos\Escola-de-Idiomas\Escola de Idiomas\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\rafael.balmeida3\source\repos\Escola-de-Idiomas\Escola de Idiomas\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\rafael.balmeida3\source\repos\Escola-de-Idiomas\Escola de Idiomas\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\rafael.balmeida3\source\repos\Escola-de-Idiomas\Escola de Idiomas\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\rafael.balmeida3\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola de Idiomas.csproj.AssemblyReference.cache
+C:\Users\rafael.balmeida3\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.AtualizarNotas.resources
+C:\Users\rafael.balmeida3\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.CadastrarProfessor.resources
+C:\Users\rafael.balmeida3\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.ExcluirNotas.resources
+C:\Users\rafael.balmeida3\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.Form1.resources
+C:\Users\rafael.balmeida3\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.Properties.Resources.resources
+C:\Users\rafael.balmeida3\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola de Idiomas.csproj.GenerateResource.cache
+C:\Users\rafael.balmeida3\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola de Idiomas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.balmeida3\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola de Idiomas.AssemblyInfoInputs.cache
+C:\Users\rafael.balmeida3\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola de Idiomas.AssemblyInfo.cs
+C:\Users\rafael.balmeida3\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola de Idiomas.csproj.CoreCompileInputs.cache
+C:\Users\rafael.balmeida3\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola de Idiomas.sourcelink.json
+C:\Users\rafael.balmeida3\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola d.2B41D5BB.Up2Date
+C:\Users\rafael.balmeida3\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola de Idiomas.dll
+C:\Users\rafael.balmeida3\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\refint\Escola de Idiomas.dll
+C:\Users\rafael.balmeida3\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola de Idiomas.pdb
+C:\Users\rafael.balmeida3\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola de Idiomas.genruntimeconfig.cache
+C:\Users\rafael.balmeida3\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\ref\Escola de Idiomas.dll
+C:\Users\rafae\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.Diretor.resources
+C:\Users\rafae\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.CadastroDiretor.resources
+C:\Users\rafae\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.CadastrarProfessor.resources
+C:\Users\rafae\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.Professor.resources
+C:\Users\rafae\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.Aluno.resources
+C:\Users\rafae\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.CadastrarAluno.resources
+C:\Users\rafae\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.Salas.resources
+C:\Users\rafae\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.CadastrarSalas.resources
+C:\Users\rafae\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.AtualizarSalas.resources
+C:\Users\rafae\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.ExcluirSalas.resources
+C:\Users\rafae\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.NOTASSALAS.resources
+C:\Users\rafae\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.SalaProfessor.resources
+C:\Users\rafae\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.CadastrarNotas.resources
+C:\Users\rafae\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.NotasProfessor.resources
+C:\Users\rafae\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.ExcluirNotas.resources
+C:\Users\rafae\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.AtualizarNotas.resources
+C:\Users\rafae\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.MenuAluno.resources
+C:\Users\rafae\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.SalaAluno.resources
+C:\Users\rafae\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.NotaAluno.resources
+C:\Users\rafael.balmeida3\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.Aluno.resources
+C:\Users\rafael.balmeida3\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.AtualizarSalas.resources
+C:\Users\rafael.balmeida3\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.CadastrarAluno.resources
+C:\Users\rafael.balmeida3\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.CadastrarNotas.resources
+C:\Users\rafael.balmeida3\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.CadastrarSalas.resources
+C:\Users\rafael.balmeida3\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.CadastroDiretor.resources
+C:\Users\rafael.balmeida3\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.Diretor.resources
+C:\Users\rafael.balmeida3\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.ExcluirSalas.resources
+C:\Users\rafael.balmeida3\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.MenuAluno.resources
+C:\Users\rafael.balmeida3\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.NotaAluno.resources
+C:\Users\rafael.balmeida3\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.NotasProfessor.resources
+C:\Users\rafael.balmeida3\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.NotasSalas.resources
+C:\Users\rafael.balmeida3\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.Professor.resources
+C:\Users\rafael.balmeida3\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.SalaAluno.resources
+C:\Users\rafael.balmeida3\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.SalaProfessor.resources
+C:\Users\rafael.balmeida3\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.Salas.resources
+C:\Users\rafael.balmeida3\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.Cursos.resources
+C:\Users\rafae\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.Cursos.resources
+C:\Users\rafae\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.CadastrarCursos.resources
+C:\Users\rafae\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.MenuDiretor.resources
+C:\Users\rafae\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.AtualizarCursos.resources
+C:\Users\rafae\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.ExcluirCurso.resources
+C:\Users\rafae\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.CursoAluno.resources
+C:\Users\rafae\source\repos\Escola-de-Idiomas\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.Matricula.resources
+C:\Users\João\Desktop\Escola-de-Idiomas-main\Escola de Idiomas\bin\Debug\net8.0-windows\Escola de Idiomas.exe
+C:\Users\João\Desktop\Escola-de-Idiomas-main\Escola de Idiomas\bin\Debug\net8.0-windows\Escola de Idiomas.deps.json
+C:\Users\João\Desktop\Escola-de-Idiomas-main\Escola de Idiomas\bin\Debug\net8.0-windows\Escola de Idiomas.runtimeconfig.json
+C:\Users\João\Desktop\Escola-de-Idiomas-main\Escola de Idiomas\bin\Debug\net8.0-windows\Escola de Idiomas.dll
+C:\Users\João\Desktop\Escola-de-Idiomas-main\Escola de Idiomas\bin\Debug\net8.0-windows\Escola de Idiomas.pdb
+C:\Users\João\Desktop\Escola-de-Idiomas-main\Escola de Idiomas\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\João\Desktop\Escola-de-Idiomas-main\Escola de Idiomas\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\João\Desktop\Escola-de-Idiomas-main\Escola de Idiomas\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\João\Desktop\Escola-de-Idiomas-main\Escola de Idiomas\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\João\Desktop\Escola-de-Idiomas-main\Escola de Idiomas\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\João\Desktop\Escola-de-Idiomas-main\Escola de Idiomas\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\João\Desktop\Escola-de-Idiomas-main\Escola de Idiomas\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\João\Desktop\Escola-de-Idiomas-main\Escola de Idiomas\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\João\Desktop\Escola-de-Idiomas-main\Escola de Idiomas\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\João\Desktop\Escola-de-Idiomas-main\Escola de Idiomas\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\João\Desktop\Escola-de-Idiomas-main\Escola de Idiomas\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\João\Desktop\Escola-de-Idiomas-main\Escola de Idiomas\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\João\Desktop\Escola-de-Idiomas-main\Escola de Idiomas\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\João\Desktop\Escola-de-Idiomas-main\Escola de Idiomas\obj\Debug\net8.0-windows\Escola de Idiomas.csproj.AssemblyReference.cache
+C:\Users\João\Desktop\Escola-de-Idiomas-main\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.Aluno.resources
+C:\Users\João\Desktop\Escola-de-Idiomas-main\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.AtualizarCursos.resources
+C:\Users\João\Desktop\Escola-de-Idiomas-main\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.AtualizarNotas.resources
+C:\Users\João\Desktop\Escola-de-Idiomas-main\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.AtualizarSalas.resources
+C:\Users\João\Desktop\Escola-de-Idiomas-main\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.CadastrarAluno.resources
+C:\Users\João\Desktop\Escola-de-Idiomas-main\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.CadastrarCursos.resources
+C:\Users\João\Desktop\Escola-de-Idiomas-main\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.CadastrarNotas.resources
+C:\Users\João\Desktop\Escola-de-Idiomas-main\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.CadastrarProfessor.resources
+C:\Users\João\Desktop\Escola-de-Idiomas-main\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.CadastrarSalas.resources
+C:\Users\João\Desktop\Escola-de-Idiomas-main\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.CadastroDiretor.resources
+C:\Users\João\Desktop\Escola-de-Idiomas-main\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.CursoAluno.resources
+C:\Users\João\Desktop\Escola-de-Idiomas-main\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.Cursos.resources
+C:\Users\João\Desktop\Escola-de-Idiomas-main\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.Diretor.resources
+C:\Users\João\Desktop\Escola-de-Idiomas-main\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.ExcluirCurso.resources
+C:\Users\João\Desktop\Escola-de-Idiomas-main\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.ExcluirNotas.resources
+C:\Users\João\Desktop\Escola-de-Idiomas-main\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.ExcluirSalas.resources
+C:\Users\João\Desktop\Escola-de-Idiomas-main\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.Form1.resources
+C:\Users\João\Desktop\Escola-de-Idiomas-main\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.Matricula.resources
+C:\Users\João\Desktop\Escola-de-Idiomas-main\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.MenuAluno.resources
+C:\Users\João\Desktop\Escola-de-Idiomas-main\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.MenuDiretor.resources
+C:\Users\João\Desktop\Escola-de-Idiomas-main\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.NotaAluno.resources
+C:\Users\João\Desktop\Escola-de-Idiomas-main\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.NotasProfessor.resources
+C:\Users\João\Desktop\Escola-de-Idiomas-main\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.NotasSalas.resources
+C:\Users\João\Desktop\Escola-de-Idiomas-main\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.Professor.resources
+C:\Users\João\Desktop\Escola-de-Idiomas-main\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.Properties.Resources.resources
+C:\Users\João\Desktop\Escola-de-Idiomas-main\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.SalaAluno.resources
+C:\Users\João\Desktop\Escola-de-Idiomas-main\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.SalaProfessor.resources
+C:\Users\João\Desktop\Escola-de-Idiomas-main\Escola de Idiomas\obj\Debug\net8.0-windows\Escola_de_Idiomas.Salas.resources
+C:\Users\João\Desktop\Escola-de-Idiomas-main\Escola de Idiomas\obj\Debug\net8.0-windows\Escola de Idiomas.csproj.GenerateResource.cache
+C:\Users\João\Desktop\Escola-de-Idiomas-main\Escola de Idiomas\obj\Debug\net8.0-windows\Escola de Idiomas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João\Desktop\Escola-de-Idiomas-main\Escola de Idiomas\obj\Debug\net8.0-windows\Escola de Idiomas.AssemblyInfoInputs.cache
+C:\Users\João\Desktop\Escola-de-Idiomas-main\Escola de Idiomas\obj\Debug\net8.0-windows\Escola de Idiomas.AssemblyInfo.cs
+C:\Users\João\Desktop\Escola-de-Idiomas-main\Escola de Idiomas\obj\Debug\net8.0-windows\Escola de Idiomas.csproj.CoreCompileInputs.cache
+C:\Users\João\Desktop\Escola-de-Idiomas-main\Escola de Idiomas\obj\Debug\net8.0-windows\Escola d.2B41D5BB.Up2Date
+C:\Users\João\Desktop\Escola-de-Idiomas-main\Escola de Idiomas\obj\Debug\net8.0-windows\Escola de Idiomas.dll
+C:\Users\João\Desktop\Escola-de-Idiomas-main\Escola de Idiomas\obj\Debug\net8.0-windows\refint\Escola de Idiomas.dll
+C:\Users\João\Desktop\Escola-de-Idiomas-main\Escola de Idiomas\obj\Debug\net8.0-windows\Escola de Idiomas.pdb
+C:\Users\João\Desktop\Escola-de-Idiomas-main\Escola de Idiomas\obj\Debug\net8.0-windows\Escola de Idiomas.genruntimeconfig.cache
+C:\Users\João\Desktop\Escola-de-Idiomas-main\Escola de Idiomas\obj\Debug\net8.0-windows\ref\Escola de Idiomas.dll
